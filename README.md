@@ -1,13 +1,8 @@
-👋 Hey there! I'm [Your Name]
+👋 Hey there! I'm Siva
 🎓 Mechanical Engineer | Aspiring AI/ML Enthusiast
 
 🔍 Transitioning from mechanical engineering to the world of AI & Machine Learning
 💡 Passionate about solving real-world problems with AI, data science, and automation
-🚀 Currently working on:
-
-🤖 AI Resume Screener
-📰 Fake News Detector
-🎨 Voice-to-Image Generation
 🌱 Always learning: Machine Learning, Deep Learning, and AI applications in engineering
 📌 Open to collaborations and exciting AI projects!
 
